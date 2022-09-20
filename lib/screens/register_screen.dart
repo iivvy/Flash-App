@@ -1,6 +1,9 @@
 import 'package:chat_app/components/rounded_button.dart';
 import 'package:chat_app/constants.dart';
 import 'package:flutter/material.dart';
+import 'package:chat_app/firebase_options.dart';
+
+
 
 class RegistrationScreen extends StatefulWidget {
   const RegistrationScreen({super.key});
